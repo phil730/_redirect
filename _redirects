@@ -1,2 +1,2 @@
-/postHandler  https://us-central1-listenformypostmessage.cloudfunctions.net/postHandler  301!
+/sendchatsummary  https://us-central1-listenformypostmessage.cloudfunctions.net/postHandler  301!
 
