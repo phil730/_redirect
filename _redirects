@@ -1,2 +1,1 @@
-/sendchatsummary  https://us-central1-listenformypostmessage.cloudfunctions.net/postHandler  301!
-
+/sendchatsummary  /.netlify/functions/sendchatsummary  200!
