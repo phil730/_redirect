@@ -1,7 +1,8 @@
 [[redirects]]
   from = "/sendchatsummary"
-  to = "https://us-central1-listenformypostmessage.cloudfunctions.net/postHandler"
+  to = "/.netlify/functions/sendchatsummary"
   status = 200
   force = true
   method = ["POST"]
   preserve_query = true
+  
